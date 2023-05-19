@@ -1,0 +1,181 @@
+[ {
+  "id" : "S0001",
+  "worker" : {
+    "name" : "Петр",
+    "midName" : "Андреевич",
+    "lastName" : "Арбузов",
+    "hired" : [ 2017, 1, 20 ],
+    "fired" : null
+  },
+  "sole" : {
+    "material" : "резина",
+    "size" : 22,
+    "producer" : "ИП Киреев О.М."
+  },
+  "upperMaterial" : "искусственная кожа"
+}, {
+  "id" : "S0002",
+  "worker" : {
+    "name" : "Петр",
+    "midName" : "Андреевич",
+    "lastName" : "Арбузов",
+    "hired" : [ 2017, 1, 20 ],
+    "fired" : null
+  },
+  "sole" : {
+    "material" : "полиуретан",
+    "size" : 23,
+    "producer" : "ЗАО \"СтельКом\""
+  },
+  "upperMaterial" : "натуральная кожа"
+}, {
+  "id" : "S0003",
+  "worker" : {
+    "name" : "Петр",
+    "midName" : "Андреевич",
+    "lastName" : "Арбузов",
+    "hired" : [ 2017, 1, 20 ],
+    "fired" : null
+  },
+  "sole" : {
+    "material" : "кожа",
+    "size" : 21,
+    "producer" : "ООО \"КожЗамЗавод\""
+  },
+  "upperMaterial" : "искусственная кожа"
+}, {
+  "id" : "S0004",
+  "worker" : {
+    "name" : "Петр",
+    "midName" : "Андреевич",
+    "lastName" : "Арбузов",
+    "hired" : [ 2017, 1, 20 ],
+    "fired" : null
+  },
+  "sole" : {
+    "material" : "каучук",
+    "size" : 25,
+    "producer" : "ОАО \"ОбувТовары\""
+  },
+  "upperMaterial" : "синтетика"
+}, {
+  "id" : "S0005",
+  "worker" : {
+    "name" : "Иван",
+    "midName" : "Сергеевич",
+    "lastName" : "Максютин",
+    "hired" : [ 2020, 4, 13 ],
+    "fired" : [ 2022, 5, 21 ]
+  },
+  "sole" : {
+    "material" : "кожа",
+    "size" : 21,
+    "producer" : "ООО \"КожЗамЗавод\""
+  },
+  "upperMaterial" : "натуральная кожа"
+}, {
+  "id" : "S0006",
+  "worker" : {
+    "name" : "Иван",
+    "midName" : "Сергеевич",
+    "lastName" : "Максютин",
+    "hired" : [ 2020, 4, 13 ],
+    "fired" : [ 2022, 5, 21 ]
+  },
+  "sole" : {
+    "material" : "полиуретан",
+    "size" : 23,
+    "producer" : "ЗАО \"СтельКом\""
+  },
+  "upperMaterial" : "синтетика"
+}, {
+  "id" : "S0007",
+  "worker" : {
+    "name" : "Иван",
+    "midName" : "Сергеевич",
+    "lastName" : "Максютин",
+    "hired" : [ 2020, 4, 13 ],
+    "fired" : [ 2022, 5, 21 ]
+  },
+  "sole" : {
+    "material" : "кожа",
+    "size" : 21,
+    "producer" : "ООО \"КожЗамЗавод\""
+  },
+  "upperMaterial" : "натуральная кожа"
+}, {
+  "id" : "S0008",
+  "worker" : {
+    "name" : "Иван",
+    "midName" : "Сергеевич",
+    "lastName" : "Максютин",
+    "hired" : [ 2020, 4, 13 ],
+    "fired" : [ 2022, 5, 21 ]
+  },
+  "sole" : {
+    "material" : "кожа",
+    "size" : 21,
+    "producer" : "ООО \"КожЗамЗавод\""
+  },
+  "upperMaterial" : "синтетика"
+}, {
+  "id" : "S0009",
+  "worker" : {
+    "name" : "Елена",
+    "midName" : "Александровна",
+    "lastName" : "Калинова",
+    "hired" : [ 2021, 12, 1 ],
+    "fired" : null
+  },
+  "sole" : {
+    "material" : "резина",
+    "size" : 22,
+    "producer" : "ИП Киреев О.М."
+  },
+  "upperMaterial" : "искусственная кожа"
+}, {
+  "id" : "S0010",
+  "worker" : {
+    "name" : "Елена",
+    "midName" : "Александровна",
+    "lastName" : "Калинова",
+    "hired" : [ 2021, 12, 1 ],
+    "fired" : null
+  },
+  "sole" : {
+    "material" : "каучук",
+    "size" : 25,
+    "producer" : "ОАО \"ОбувТовары\""
+  },
+  "upperMaterial" : "синтетика"
+}, {
+  "id" : "S0011",
+  "worker" : {
+    "name" : "Елена",
+    "midName" : "Александровна",
+    "lastName" : "Калинова",
+    "hired" : [ 2021, 12, 1 ],
+    "fired" : null
+  },
+  "sole" : {
+    "material" : "каучук",
+    "size" : 25,
+    "producer" : "ОАО \"ОбувТовары\""
+  },
+  "upperMaterial" : "натуральная кожа"
+}, {
+  "id" : "S0012",
+  "worker" : {
+    "name" : "Елена",
+    "midName" : "Александровна",
+    "lastName" : "Калинова",
+    "hired" : [ 2021, 12, 1 ],
+    "fired" : null
+  },
+  "sole" : {
+    "material" : "полиуретан",
+    "size" : 23,
+    "producer" : "ЗАО \"СтельКом\""
+  },
+  "upperMaterial" : "искусственная кожа"
+} ]

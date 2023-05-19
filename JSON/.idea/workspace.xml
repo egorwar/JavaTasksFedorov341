@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84579f47-f4a9-4cbb-85fe-f1d831a28bc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Builder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/Builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/out/production/Builder/Exercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/out/production/Builder/Experienced.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/out/production/Builder/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/out/production/Builder/Novice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/out/production/Builder/Professional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/out/production/Builder/Scheduler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/src/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/src/Experienced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/src/Novice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/src/Professional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder/src/Scheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/dataSources/ba4683cc-ae27-41ec-a611-3e2d7956ff60.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/dataSources/ba4683cc-ae27-41ec-a611-3e2d7956ff60/storage_v2/_src_/database/testBase.gyaduw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/dataSources/ba4683cc-ae27-41ec-a611-3e2d7956ff60/storage_v2/_src_/database/testBase.gyaduw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/dataSources/ba4683cc-ae27-41ec-a611-3e2d7956ff60/storage_v2/_src_/database/testBase.gyaduw/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/dataSources/ba4683cc-ae27-41ec-a611-3e2d7956ff60/storage_v2/_src_/database/testBase.gyaduw/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MSSQLtest/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/MathLessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/PracticeA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/PracticeB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/PracticeC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/StudentA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/StudentB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/StudentC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/StudentFlow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/Task_AreaCalculation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/Task_Equation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/out/production/MathLessons/Task_Minimization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/PracticeA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/PracticeB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/PracticeC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/StudentA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/StudentB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/StudentC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/StudentFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/Task_AreaCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/Task_Equation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathLessons/src/Task_Minimization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton/Singleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton/out/production/Singleton/Exam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton/out/production/Singleton/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton/src/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Sneakers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Sole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Sneakers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Sole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/sneakers.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P8U2gq9Wbocl4ZCla29ZuPJoBj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Учёба/Java/parseJSON&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="JSON" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84579f47-f4a9-4cbb-85fe-f1d831a28bc1" name="Changes" comment="" />
+      <created>1682837998820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682837998820</updated>
+      <workItem from="1683181391370" duration="1909000" />
+      <workItem from="1683213763620" duration="852000" />
+      <workItem from="1684501142205" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
