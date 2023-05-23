@@ -1,3 +1,5 @@
+import org.junit.jupiter.api.function.Executable;
+
 public class Exam {
     private static Exam current;
     private static String currentInfo;
@@ -17,7 +19,7 @@ public class Exam {
             throw new SecurityException("Too much attempts");
 
         if (!Exam.pass.equals(pass)){
-            System.out.println("Wrong password! " + --attempts + " attempts remain");
+            System.out.print("Wrong password! " + --attempts + " attempts remain\n");
             return;
         }
 
